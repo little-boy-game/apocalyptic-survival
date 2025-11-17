@@ -1,7 +1,6 @@
 # 末日求生
 
 [![top language](https://img.shields.io/github/languages/top/little-boy-game/apocalyptic-survival)](https://github.com/little-boy-game/apocalyptic-survival)
-[![GitHub Downloads](https://img.shields.io/github/downloads/little-boy-game/apocalyptic-survival/latest/total)](https://img.shields.io/github/languages/top/little-boy-game/apocalyptic-survival)
 [![Static Badge](https://img.shields.io/badge/%E6%8A%96%E9%9F%B3-little_boy_game-yellow?style=flat&labelColor=444444&logoSize=auto)
 ](https://www.douyin.com/user/MS4wLjABAAAA2XPMZfN6rg-jIC4Y_Vp4bTWL-of3L177qS1rMS93H3rAQtoudAZlFkGRpX8Fd1kT?from_tab_name=main&vid=7556912634256198954)
 [![爱发电](https://img.shields.io/badge/赞助-爱发电-946ce6?style=flat&labelColor=444444&logoSize=auto)](https://afdian.com/a/little-boy-game)
