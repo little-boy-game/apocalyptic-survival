@@ -4,6 +4,7 @@
 [![Static Badge](https://img.shields.io/badge/%E6%8A%96%E9%9F%B3-little_boy_game-yellow?style=flat&labelColor=444444&logoSize=auto)
 ](https://www.douyin.com/user/MS4wLjABAAAA2XPMZfN6rg-jIC4Y_Vp4bTWL-of3L177qS1rMS93H3rAQtoudAZlFkGRpX8Fd1kT?from_tab_name=main&vid=7556912634256198954)
 [![爱发电](https://img.shields.io/badge/赞助-爱发电-946ce6?style=flat&labelColor=444444&logoSize=auto)](https://afdian.com/a/little-boy-game)
+[![GitHub Downloads](https://img.shields.io/github/downloads-pre/little-boy-game/apocalyptic-survival/latest/total?label=%E4%B8%8B%E8%BD%BD%E9%87%8F&color=green)](https://github.com/little-boy-game/apocalyptic-survival)
 
 ## 一、核心目标
 在末日环境中通过管理状态、收集物资、应对事件，尽可能延长生存时间，解锁成就并达成理想结局。
