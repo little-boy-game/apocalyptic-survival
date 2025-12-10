@@ -37,7 +37,10 @@ while True:
             {ORANGE}2. 查看成就{RESET}
             {BLUE}3. 导入存档{RESET}
             {PURPLE}4. 赞助作者{RESET}
-            {WHITE}5.退出游戏{RESET}
+            {CYAN}5. Kook频道{RESET}
+            {GREEN}6. GitHub{RESET}
+            {WHITE}7.退出游戏{RESET}
+            
             {ORANGE}请选择：{RESET}''')  # 显示菜单并读取玩家选择
     
     # 玩家选择开始游戏时进入难度与角色选择流程
@@ -148,21 +151,7 @@ while True:
         print(f"{GREEN}游戏开始！{RESET}")  # 提示游戏即将开始
         no(1)                         # 等待玩家确认开始
         import go                      # 延迟导入 go 模块以避免循环导入问题
-        mu.play_ogg("La_Autocracia.ogg", 0)  # 播放开场音乐（只播放一次）
 
-        # 简短序章文本，逐步展示并等待玩家阅读
-        print('从前...')
-        no(1)
-        print('在一个风和日丽的早晨...')
-        no(1)
-        print('一家三口正在享受着天伦之乐...')
-        no(1)
-        print('突然，天空中传来一声巨响...')
-        no(1)
-        print('一颗巨大的陨石正朝着地球飞来...')
-        no(1)
-        print('末日就此降临...')
-        no(1)
         go.game(None, name, pep)       # 调用游戏主循环并传入难度与角色参数
 
     elif ing == '2':                   # 查看成就分支
@@ -179,8 +168,14 @@ while True:
 
     elif ing == '4':                   # 打开赞助链接分支
         webbrowser.open('https://afdian.com/a/little-boy-game')  # 在默认浏览器打开赞助页面
+    
+    elif ing == '5':                   # 打开 Kook 频道分支
+        webbrowser.open('https://kook.vip/TedikM')  # 在默认浏览器打开 Kook 频道
 
-    elif ing == '5':                   # 退出游戏分支
+    elif ing == '6':                   # 打开 GitHub 分支
+        webbrowser.open('https://github.com/little-boy-game/apocalyptic-survival')  # 在默认浏览器打开 GitHub 页面
+
+    elif ing == '7':                   # 退出游戏分支
         no(0)
         print(f"{WHITE}感谢游玩！{RESET}")  # 致谢信息
         time.sleep(2)                   # 暂停 2 秒后退出，给玩家时间看到提示
